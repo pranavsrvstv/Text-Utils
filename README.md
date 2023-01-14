@@ -1,9 +1,6 @@
  Project Name- Text Utils 
             <br />
-            Created By- Pranav Shrivastava 
-            <br />
-            Github profile-
-            <a href="https://github.com/pranavsrvstv/Text-Utils" style={{textDecoration:"none",color:'green',fontSize:'20px'}}>Click Here</a>
+            Created By- Pranav Shrivastava
             <br />
             Description - A simple text utility app to count characters, number of words and to narrate the entered text
 
