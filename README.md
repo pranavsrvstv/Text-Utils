@@ -1,8 +1,5 @@
- Project Name- Text Utils 
-            <br />
-            Created By- Pranav Shrivastava
-            <br />
-            Description - A simple text utility app to count characters, number of words and to narrate the entered text
+<h2>Description - A simple text utility app to count characters,copy text,number of words and to narrate the entered text</H2>
+<img width="956" alt="textutils" src="https://user-images.githubusercontent.com/120587771/214789075-a183f4a1-200b-495c-a22c-be7720da4a5d.png">
 
 # Getting Started with Create React App
 
